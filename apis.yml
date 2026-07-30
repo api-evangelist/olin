@@ -1,4 +1,16 @@
 aid: olin
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/olin.png
 name: Olin
 url: https://raw.githubusercontent.com/api-evangelist/olin/refs/heads/main/apis.yml
 type: Index
