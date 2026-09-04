@@ -25,7 +25,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/olin.png
 name: Olin
 url: https://raw.githubusercontent.com/api-evangelist/olin/refs/heads/main/apis.yml
 type: Index
-position: Consumer
+position: Consuming
 access: 3rd-Party
 tags:
   - Chemicals
